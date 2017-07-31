@@ -1,0 +1,14 @@
+{
+  "name": "vide-plugin-bucket-common",
+  "version": "0.0.1",
+  "author": "vic.wang",
+  "keywords": [
+    "vide-plugin",
+    "bucket-common"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:debuggap/vide-plugin-bucket-common.git"
+  },
+  "main": "index.js"
+}
